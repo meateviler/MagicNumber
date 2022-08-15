@@ -1,0 +1,6 @@
+/Users/eviler.chuang99/RiderProjects/MagicNumber/MagicNumber/bin/Debug/MagicNumber.dll
+/Users/eviler.chuang99/RiderProjects/MagicNumber/MagicNumber/bin/Debug/MagicNumber.pdb
+/Users/eviler.chuang99/RiderProjects/MagicNumber/MagicNumber/obj/Debug/MagicNumber.csprojAssemblyReference.cache
+/Users/eviler.chuang99/RiderProjects/MagicNumber/MagicNumber/obj/Debug/MagicNumber.csproj.CoreCompileInputs.cache
+/Users/eviler.chuang99/RiderProjects/MagicNumber/MagicNumber/obj/Debug/MagicNumber.dll
+/Users/eviler.chuang99/RiderProjects/MagicNumber/MagicNumber/obj/Debug/MagicNumber.pdb
